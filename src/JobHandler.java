@@ -58,7 +58,7 @@ public class JobHandler {
 		}
 		return currentRank - warningDeRank;
 	}
-	
+
 	/**
 	 * A method that helps determine if an employee qualifies for a job.
 	 * To determine if the employee qualifies we need to meet the following requirements:
